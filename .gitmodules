@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/lepennec/universe
+	url = https://github.com/lepennec/lepennec.r-universe.dev
 	branch = HEAD
 [submodule "ggwordcloud"]
 	path = ggwordcloud
